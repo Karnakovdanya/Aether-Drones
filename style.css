@@ -103,6 +103,7 @@ form {
   padding-top: 5vh;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .head-container {
@@ -1463,7 +1464,7 @@ footer {
       font-size: 20px;
     }
     #wrapper {
-      min-height: 95vh; 
+      min-height: 850px; 
       background:radial-gradient(circle at 70% 50%, #2c2c2c 0%, #000000 55%);
     }
     .slide {
