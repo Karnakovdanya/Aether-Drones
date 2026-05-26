@@ -420,8 +420,8 @@ main {
 
 .drone1, .drone2, .drone3 {
   background: transparent;
-  width: 30vw; 
-  height: 65vh; 
+  width: 500px; 
+  height: 600px; 
   perspective: 3000px; /* Эффект глубины */
 }
 
