@@ -1449,9 +1449,11 @@ footer {
     form h1 {
       font-size: 60px;
       padding: 20px 0 20px 0;
+      letter-spacing: 1px;
     }
     form h2 {
       font-size: 40px;
+      letter-spacing: 1px;
     }
     form p {
       font-size: 25px;
