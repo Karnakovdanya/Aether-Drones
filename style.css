@@ -1571,6 +1571,12 @@ footer {
     #wrapper, .section2{
       min-height: 950px;
     }
+    form h1 {
+      letter-spacing: 1px;
+    }
+    form h2 {
+      letter-spacing: 1px;
+    }
     footer {
       min-height: 550px;
     }
@@ -1601,10 +1607,12 @@ footer {
    @media screen and (max-width: 1600px) and (min-width: 1200px) {
     form h1 {
         font-size: 50px;
+        letter-spacing: 1px;
     }
 
     form h2 {
         font-size: 32px;
+        letter-spacing: 1px;
     }
 
     p {
