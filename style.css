@@ -1596,3 +1596,22 @@ footer {
       min-height: 750px
     }
   }
+   @media screen and (max-width: 1600px) and (min-width: 1200px) {
+    form h1 {
+        font-size: 50px;
+    }
+
+    form h2 {
+        font-size: 32px;
+    }
+
+    p {
+        font-size: 20px ;
+    }
+    .btn a {
+      font-size: 18px;
+    }
+    #wrapper {
+      min-height: 750px;
+    }
+  }
